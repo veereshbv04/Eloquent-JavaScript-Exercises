@@ -1,0 +1,3 @@
+for( let element = "#";element.length <= 7; element += "#"){
+ console.log(element)
+ }
